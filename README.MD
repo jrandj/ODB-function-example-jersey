@@ -1,6 +1,6 @@
 # ODB-function-example-jersey
 
-This is an example for calling an Oracle Database function exposed through a Jersey API. 
+This is an example application for calling an Oracle Database function exposed through a Jersey API. 
 Access from http://localhost:8080/dbretrieval/api/checkpalindrome?word=VALUE
 
 ## Prerequisites
